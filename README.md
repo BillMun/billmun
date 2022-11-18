@@ -43,7 +43,7 @@ Please connect with me and please check out some of my cool projects!
 [PixiJS]: https://img.shields.io/badge/pixiJS-eb1e62?style=for-the-badge&logo=javascript&logoColor=white
 [PixiJS-url]: https://pixijs.com/
 
-[Express]:https://img.shields.io/badge/Express-?sytle=for-the-badge&logo=javascript&logoColor=white
+[Express]:https://img.shields.io/badge/Express-9600ff?sytle=for-the-badge&logo=javascript&logoColor=white
 [Express-url]:https://expressjs.com/
 
 [Sequelize]:https://img.shields.io/badge/Sequelize-ADD8E6?style=for-the-badge&logo=Sequelize&logoColor=blue
