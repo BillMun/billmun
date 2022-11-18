@@ -9,7 +9,6 @@ Please connect with me and please check out some of my cool projects!
 [![LinkedIn][LinkedIn]][LinkedIn-url]
 
 <br/>
-
 <h2>Tech Stack</h2>
 
 [![Javascript][Javascript]][Javascript-url]
@@ -43,11 +42,11 @@ Please connect with me and please check out some of my cool projects!
 [PixiJS]: https://img.shields.io/badge/pixiJS-eb1e62?style=for-the-badge&logo=javascript&logoColor=white
 [PixiJS-url]: https://pixijs.com/
 
-[Express]:https://img.shields.io/badge/Express-9600ff?sytle=for-the-badge&logo=javascript&logoColor=white
+[Express]: https://img.shields.io/badge/EXPRESS-A020F0?style=for-the-badge&logo=javascript&logoColor=white
 [Express-url]:https://expressjs.com/
 
-[Sequelize]:https://img.shields.io/badge/Sequelize-ADD8E6?style=for-the-badge&logo=Sequelize&logoColor=blue
+[Sequelize]: https://img.shields.io/badge/Sequelize-ADD8E6?style=for-the-badge&logo=Sequelize&logoColor=blue
 [Sequelize-url]:https://sequelize.org/
 
-[LinkedIn]:https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white
 [LinkedIn-url]:https://www.linkedin.com/in/williammunkacsy/
