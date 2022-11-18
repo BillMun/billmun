@@ -43,11 +43,11 @@ Please connect with me and please check out some of my cool projects!
 [PixiJS]: https://img.shields.io/badge/pixiJS-eb1e62?style=for-the-badge&logo=javascript&logoColor=white
 [PixiJS-url]: https://pixijs.com/
 
-[Express]:https://img.shields.io/badge/Express-blue?sytle=for-the-badge&log=Express&logoColor=white
+[Express]:https://img.shields.io/badge/Express-blue?sytle=for-the-badge&logo=Express&logoColor=white
 [Express-url]:https://expressjs.com/
 
 [Sequelize]:https://img.shields.io/badge/Sequelize-ADD8E6?style=for-the-badge&logo=Sequelize&logoColor=blue
 [Sequelize-url]:https://sequelize.org/
 
-[LinkedIn]:https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge*logo=LinkedIn&logoColor=white
+[LinkedIn]:https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white
 [LinkedIn-url]:https://www.linkedin.com/in/williammunkacsy/
