@@ -1,14 +1,12 @@
-<head><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</head>
-
 <div>
 <h1 align="center">Hi and Welcome! I'm Bill 🐈🐱😺</h1>
-<p align="left">I love to code and problem solve! I have 2 wonderful cats that help me. I want to create apps that are accessable, useful, and intriguing. I have taught mathematics in public schools for 12 years, teaching Algebra, Geometry, Algebra II, Pre-Calculus and Statistics and after having a wonderful career working with young people I have decided to make the switch into software and web development.  I think javascript is basically doing complex algebra and I have really enjoyed finding all the intersections between mathematics and coding.
-    Please connect with me and please check out some of my projects!
+<p align="left">I love to code and problem solve! I have 2 wonderful cats that help me. I want to create apps that are accessable, useful, and intriguing. I have taught mathematics in public schools for 12 years and after having a wonderful career working with young people I have decided to make the switch into software and web development. Javascript is basically doing complex algebra and I enjoyed finding all the intersections between mathematics and coding.
+
+Please connect with me and please check out some of my cool projects!
 </p>
+[![LinkedIn][LinkedIn]][LinkedIn-url]
 </div>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="williammunkacsy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/williammunkacsy?trk=profile-badge">William Munkacsy</a></div>
 
 <br/>
 
@@ -23,10 +21,6 @@
 [![Express][Express]][Express-url]
 [![Sequelize][Sequelize]][Sequelize-url]
   
-
-
-
-
 
 
 <!--Vars-->
@@ -49,8 +43,11 @@
 [PixiJS]: https://img.shields.io/badge/pixiJS-eb1e62?style=for-the-badge&logo=javascript&logoColor=white
 [PixiJS-url]: https://pixijs.com/
 
-[Express]:https://img.shields.io/badge/E-Express-blue
+[Express]:https://img.shields.io/badge/Express-blue?sytle=for-the-badge&log=Express&logoColor=white
 [Express-url]:https://expressjs.com/
 
 [Sequelize]:https://img.shields.io/badge/Sequelize-ADD8E6?style=for-the-badge&logo=Sequelize&logoColor=blue
 [Sequelize-url]:https://sequelize.org/
+
+[LinkedIn]:https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge*logo=LinkedIn&logoColor=white
+[LinkedIn-url]:https://www.linkedin.com/in/williammunkacsy/
