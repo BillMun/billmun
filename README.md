@@ -4,9 +4,9 @@
 
 Please connect with me and please check out some of my cool projects!
 </p>
-[![LinkedIn][LinkedIn]][LinkedIn-url]
 </div>
 
+[![LinkedIn][LinkedIn]][LinkedIn-url]
 
 <br/>
 
