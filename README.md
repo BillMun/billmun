@@ -1,11 +1,12 @@
+<head><script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</head>
+
 <div>
 <h1 align="center">Hi and Welcome! I'm Bill 🐈🐱😺</h1>
 <p align="left">I love to code and problem solve! I have 2 wonderful cats that help me. I want to create apps that are accessable, useful, and intriguing. I have taught mathematics in public schools for 12 years, teaching Algebra, Geometry, Algebra II, Pre-Calculus and Statistics and after having a wonderful career working with young people I have decided to make the switch into software and web development.  I think javascript is basically doing complex algebra and I have really enjoyed finding all the intersections between mathematics and coding.
     Please connect with me and please check out some of my projects!
 </p>
 </div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="williammunkacsy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/williammunkacsy?trk=profile-badge">William Munkacsy</a></div>
 
