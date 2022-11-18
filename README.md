@@ -11,8 +11,7 @@
 
 <br/>
 
-<div><h2>Tech Stack</h2>
-    <p>
+<h2>Tech Stack</h2>
         [![Javascript][Javascript]][Javascript-url]
         [![Tensorflow][Tensorflow]][Tensorflow-url]
         [![PixiJS][PixiJS]][PixiJS-url]
@@ -21,8 +20,8 @@
         [![Firebase][Firebase]][Firebase-url]
         [![Express][Express][Express-url]]
         [![Sequelize][Sequelize][Sequelize-url]]
-    </p>
-</div>
+  
+
 
 
 
