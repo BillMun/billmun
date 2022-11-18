@@ -12,14 +12,15 @@
 <br/>
 
 <h2>Tech Stack</h2>
-        [![Javascript][Javascript]][Javascript-url]
-        [![Tensorflow][Tensorflow]][Tensorflow-url]
-        [![PixiJS][PixiJS]][PixiJS-url]
-        [![React.js][React.js]][React-url]
-        [![Node.js][Node.js]][Node.js-url]
-        [![Firebase][Firebase]][Firebase-url]
-        [![Express][Express][Express-url]]
-        [![Sequelize][Sequelize][Sequelize-url]]
+
+[![Javascript][Javascript]][Javascript-url]
+[![Tensorflow][Tensorflow]][Tensorflow-url]
+[![PixiJS][PixiJS]][PixiJS-url]
+[![React.js][React.js]][React-url]
+[![Node.js][Node.js]][Node.js-url]
+[![Firebase][Firebase]][Firebase-url]
+[![Express][Express]][Express-url]
+[![Sequelize][Sequelize]][Sequelize-url]
   
 
 
@@ -50,5 +51,5 @@
 [Express]:https://img.shields.io/badge/E-Express-blue
 [Express-url]:https://expressjs.com/
 
-[Sequelize]:
+[Sequelize]:https://img.shields.io/badge/Sequelize-ADD8E6?style=for-the-badge&logo=Sequelize&logoColor=blue
 [Sequelize-url]:https://sequelize.org/
