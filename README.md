@@ -26,10 +26,10 @@ Please connect with me and please check out some of my cool projects!
 
 <div>
 <h2>Linkuistix</h2>
-<h1 align="center">
-  <img alt="Linkuistix logo" src="https://i.imgur.com/GYUm6u2.png" width=180/><br/>
+<h4>
+  <img alt="Linkuistix logo" src="https://i.imgur.com/GYUm6u2.png" width=100/><br/>
   <a href="https://www.linkuistix.com">🔗 linkuistix.com</a>
-</h1>
+</h4>
 <p>
 A word association game built upon a pre-trained AI model, <b>Linkuistix</b> is a battle against the clock that challenges players to find related words as quickly as they can.
 </p>
