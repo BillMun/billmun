@@ -19,8 +19,22 @@ Please connect with me and please check out some of my cool projects!
 [![Firebase][Firebase]][Firebase-url]
 [![Express][Express]][Express-url]
 [![Sequelize][Sequelize]][Sequelize-url]
-  
+[![PostGreSQL][PostGreSQL]][PostGreSQL-url]
 
+<br/>
+<h2 align='center'>Featured Projects</h2>
+
+<div>
+<h3 align='center'>Linkuistix</h3>
+<p align="center">
+A word association game built upon a pre-trained AI model, <b>Linkuistix</b> is a battle against the clock that challenges players to find related words as quickly as they can.
+</p>
+<div align="center">
+<a href="https://youtu.be/GvZ8XhF3Jz4" alt="video-demonstration">
+<b>📺 Video Demonstration</b>
+</a>
+</div>
+</div>
 
 <!--Vars-->
 
@@ -50,3 +64,7 @@ Please connect with me and please check out some of my cool projects!
 
 [LinkedIn]: https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=LinkedIn&logoColor=white
 [LinkedIn-url]:https://www.linkedin.com/in/williammunkacsy/
+
+[PostGreSQL]: https://img.shields.io/badge/PostGreSQL-?0000FFstyle=for-the-badge&logo=PostGreSQL&logoColor=black
+[PostGreSQL-url]:https://www.postgresql.org/
+
