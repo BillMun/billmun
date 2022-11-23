@@ -26,6 +26,10 @@ Please connect with me and please check out some of my cool projects!
 
 <div>
 <h2>Linkuistix</h2>
+<h1 align="center">
+  <img alt="Linkuistix logo" src="https://i.imgur.com/GYUm6u2.png" width=180/><br/>
+  <a href="https://www.linkuistix.com">🔗 linkuistix.com</a>
+</h1>
 <p>
 A word association game built upon a pre-trained AI model, <b>Linkuistix</b> is a battle against the clock that challenges players to find related words as quickly as they can.
 </p>
@@ -34,6 +38,15 @@ A word association game built upon a pre-trained AI model, <b>Linkuistix</b> is 
 <b>📺 Video Demonstration</b>
 </a>
 <a href="https://www.linkuistix.com">🔗 linkuistix.com</a>
+</div>
+</div>
+
+<h2>Homework Checker</h2>
+<p>
+A tool for teachers, made by a teacher, that allows them to easily input grade homework for their classroom.
+</p>
+<div>
+<a href="http://homeworkr.herokuapp.com/">🔗 Homework Check</a>
 </div>
 </div>
 
