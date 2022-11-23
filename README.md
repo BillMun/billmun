@@ -43,7 +43,7 @@ A word association game built upon a pre-trained AI model, <b>Linkuistix</b> is 
 
 <h2>Homework Checker</h2>
 <p>
-A tool for teachers, made by a teacher, that allows them to easily input grade homework for their classroom.
+A tool for teachers, made by a teacher, that allows them to easily input and grade homework for their classroom.
 </p>
 <div>
 <a href="http://homeworkr.herokuapp.com/">🔗 Homework Check</a>
