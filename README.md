@@ -20,11 +20,20 @@ Please connect with me and please check out some of my cool projects!
 [![Express][Express]][Express-url]
 [![Sequelize][Sequelize]][Sequelize-url]
 [![PostGreSQL][PostGreSQL]][PostGreSQL-url]
+[![ReactNative][ReactNative]][ReactNative-url]  
+[![Expo][Expo]][Expo-url]
 
 <br/>
 <h2 align='center'>Featured Projects</h2>
 
 <div>
+<h2>Grandmathster</h2>
+  <h4>
+    <img alt='Grandmathster logo' src='./assets/documentation/img/grandmathsterLogo.png'>
+    <a href=''>Available on iOS Store</a>
+  </h4>
+  <p>Grandmathster is an education gaming app designed to help both young students and adults sharpen their mental math abilities. It is built using React Native and Expo
+  </p>
 <h2>Linkuistix</h2>
 <h4>
   <img alt="Linkuistix logo" src="https://i.imgur.com/GYUm6u2.png" width=100/><br/>
@@ -81,3 +90,9 @@ A tool for teachers, made by a teacher, that allows them to easily input and gra
 
 [PostGreSQL]: https://img.shields.io/badge/PostGreSQL-0000FF?style=for-the-badge&logo=PostGreSQL&logoColor=black
 [PostGreSQL-url]:https://www.postgresql.org/
+
+[ReactNative]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[ReactNative-url]: https://reactnative.dev/
+
+[Expo]: https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
+[Expo-url]: https://expo.dev/
