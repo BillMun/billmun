@@ -31,7 +31,7 @@ Please connect with me and please check out some of my cool projects!
   <h4>
     <img alt='Grandmathster logo' src='./assets/grandmathsterLogo.png' width=180>
     <div>
-      <a href=''>Available on iOS Store</a>
+      <a href='https://apps.apple.com/us/app/grandmathster-us/id1669264916'>🔗Available on iOS Store</a>
     </div>
   </h4>
   <p>Grandmathster is an education gaming app designed to help both young students and adults sharpen their mental math abilities. It is built using React Native and Expo
