@@ -22,6 +22,9 @@ Please connect with me and please check out some of my cool projects!
 [![PostGreSQL][PostGreSQL]][PostGreSQL-url]
 [![ReactNative][ReactNative]][ReactNative-url]  
 [![Expo][Expo]][Expo-url]
+[![MongoDB][MongoDB]][MongoDB-url]
+[![Mongoose][Mongoose]][Mongoose-url]
+[![Docker][Docker]][Docker-url]
 
 <br/>
 <h2 align='center'>Featured Projects</h2>
@@ -98,3 +101,12 @@ A tool for teachers, made by a teacher, that allows them to easily input and gra
 
 [Expo]: https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37
 [Expo-url]: https://expo.dev/
+
+[MongoDB]: https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=Blue
+[MongoDB-url]:https://www.mongodb.com/
+
+[Mongoose]: https://img.shields.io/badge/Mongoose-0000FF?style=for-the-badge&logo=Mongoose&logoColor=black
+[Mongoose-url]:https://mongoosejs.com/
+
+[Docker]: https://img.shields.io/badge/Docker-ADD8E6?style=for-the-badge&logo=Docker&logoColor=white
+[Docker-url]:https://www.docker.com/
